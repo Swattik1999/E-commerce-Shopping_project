@@ -13,3 +13,5 @@ cd backend
 npm start
 or
 nodemon server.js
+
+Create a .env file and put down URL string of mongodb
