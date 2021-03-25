@@ -1,5 +1,6 @@
-# Gmit_MERN_project
-It is an Ecommerce project which is created on MERN stack.
+## E-commerce Shopping Project
+It is an Ecommerce shopping web application project which is created on MERN stack technology.
+In details about the project users can purchase their respective product from this platform, see the product review, after purchase they can give feedback about product, check and track the order and pay for the order etc.
 
 #. The Frontend will run in  https://localhost:3000 & backend run : https://localhost:5000
 Run frontend :
