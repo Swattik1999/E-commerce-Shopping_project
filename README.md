@@ -1,4 +1,5 @@
 ## E-commerce Shopping Project
+It was completely a group project with around 4-5 no. of developer.
 It is an Ecommerce shopping web application project which is created on MERN stack technology.
 In details about the project users can purchase their respective product from this platform, see the product review, after purchase they can give feedback about product, check and track the order and pay for the order etc.
 
